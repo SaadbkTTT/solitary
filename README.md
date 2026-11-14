@@ -1,4 +1,4 @@
-# Witchy Solitaire 🐈‍⬛🐉🧙
+# WitchyKaren 🐈‍⬛🐉🧙
 
 Klondike solitaire for **Android & iOS** (Expo / React Native) with a spooky crew:
 
@@ -26,7 +26,7 @@ npm run typecheck
 npx eas-cli@latest build --platform android --profile preview   # installable APK
 npx eas-cli@latest build --platform ios --profile production
 ```
-Bundle id / package is `com.witchysolitaire.app` in `app.json` — change it to your own before publishing.
+Bundle id / package is `com.witchykaren.app` in `app.json` — change it to your own before publishing.
 
 ## Structure
 - `src/game/klondike.ts` – pure game rules

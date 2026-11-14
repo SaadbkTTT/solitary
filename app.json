@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Witchy Solitaire",
-    "slug": "witchy-solitaire",
+    "name": "WitchyKaren",
+    "slug": "witchykaren",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.witchysolitaire.app"
+      "bundleIdentifier": "com.witchykaren.app"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,11 +18,12 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.witchysolitaire.app"
+      "package": "com.witchykaren.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "backgroundColor": "#1a0f2e"
+    "backgroundColor": "#1a0f2e",
+    "scheme": "witchykaren"
   }
 }

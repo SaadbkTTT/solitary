@@ -84,7 +84,7 @@ function Game() {
       <FloatingHats width={width} height={height} />
 
       <View style={styles.header}>
-        <Text style={styles.title}>Witchy Solitaire</Text>
+        <Text style={styles.title}>WitchyKaren</Text>
         <Text style={styles.moves}>Moves {game.moves}</Text>
         <Pressable onPress={undo} style={styles.btn}>
           <Text style={styles.btnText}>Undo</Text>
